@@ -1,2 +1,4 @@
 ceilbot
 =======
+
+Ceiling mounted robot.
